@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 
-Project code is available [here](https://github.com/agoila/udacity-mlnd-P0/blob/master/titanic_survival_exploration.ipynb) with the HTML report [here](https://github.com/agoila/udacity-mlnd-P0/blob/master/report.html).
+Project code is available [here](https://github.com/agoila/udacity-mlnd-P0/tree/master/titanic_survival_exploration).
 
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
